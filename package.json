@@ -1,0 +1,22 @@
+{
+  "name": "koozmetik",
+  "version": "1.0.0",
+  "description": "Landing page for koozmetik ",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamil-gorny/Koozmetik.git"
+  },
+  "author": "Kamil Górny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamil-gorny/Koozmetik/issues"
+  },
+  "homepage": "https://github.com/kamil-gorny/Koozmetik#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
